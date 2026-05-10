@@ -1,49 +1,63 @@
-# 👋 Hello World, We are Lk-Hackers Team!
+# <p align="center">⚡ Lk-Hackers Team ⚡</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Cyber+Security+Enthusiasts;Ethical+Hacking+Team;Open+Source+Contributors;We+Protect+the+Cyberspace" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=code&color=auto&height=200&section=header&text=Lk-Hackers%20Team&fontSize=70&animation=fadeIn&fontAlignY=35&theme=matrix" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=The+Digital+Guardians;Advanced+OSINT+Research;Ethical+Hacking+Unit;Security+Tools+Developers" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛡️ About Us
-Lk-Hackers is a community of tech enthusiasts and security researchers based in Sri Lanka. We focus on:
-- 🛡️ **Ethical Hacking & Pentesting**
-- 💻 **Open Source Development**
-- 🎓 **Cyber Security Education**
-- 🤖 **Automated Security Tools**
+### 🛡️ Core Expertise
+
+| **Offensive Security** | **Defensive Security** | **Intelligence** |
+| :--- | :--- | :--- |
+| 🛡️ Penetration Testing | 🔒 Network Hardening | 🔍 OSINT Analysis |
+| ☢️ Exploitation | 🛡️ Firewall Development | 👤 Identity Guarding |
+| 💻 Scripting (Python/Bash)| 🛡️ Malware Analysis | 🕵️ Scammer Tracking |
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
+### 📊 Advanced Mission Dashboard
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USER_NAME&show_icons=true&theme=matrix&rank_icon=github&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USER_NAME&theme=matrix&border_radius=10" />
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER_NAME&layout=compact&theme=matrix&hide_border=false&langs_count=10" />
+</p>
+
+---
+
+### 🛠️ Arsenal (Tech Stack)
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,docker,kali,php,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,py,bash,js,docker,git,github,mysql,php,postman,powershell,vscode&perline=7" />
   </a>
 </p>
 
 ---
 
-### 📊 Our GitHub Stats
+### 📈 Global Impact Graph
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ORG_NAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ORG_NAME&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USER_NAME&theme=matrix&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 🔥 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ORG_NAME&theme=tokyo-night)
-
----
-
-### 🤝 Connect With Us
-<p align="left">
-<a href="https://t.me/Lk_Hackers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Lk Hackers Telegram" height="30" width="40" /></a>
-<a href="https://facebook.com/LkHackers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lk Hackers FB" height="30" width="40" /></a>
-<a href="https://youtube.com/LkHackers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Lk Hackers YT" height="30" width="40" /></a>
+### 🛰️ System Connectivity
+<p align="center">
+<a href="https://t.me/Lk_Hackers"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40"/></a>
+<a href="https://facebook.com/LkHackers"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="40"/></a>
+<a href="https://youtube.com/LkHackers"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="40"/></a>
+<a href="mailto:contact@lkhackers.lk"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_ORG_NAME&label=Profile%20views&color=00ff41&style=flat" alt="Views" />
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon-separator.gif" width="100%"/>
 </p>
