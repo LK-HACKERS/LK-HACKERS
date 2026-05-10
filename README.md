@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=220&section=header&text=LK-HACKERS&fontSize=80&animation=twinkling&fontAlignY=40&theme=matrix&fontColor=ffbe0b" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=230&section=header&text=LK-HACKERS&fontSize=85&animation=twinkling&fontAlignY=40&theme=matrix&fontColor=FFBE0B" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=$>_Initializing+Lankan+Cyber+Core...;$>_Defending+The+Digital+Pearl+🇱🇰;$>_Tracking+Scammers+In+Progress;$>_Building+Exploitation+Tools;$>_Status:+Lion+Hearted+Hacker" alt="Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=$>_Initializing+Cyber+Lion+Core...;$>_Defending+The+Digital+Pearl+🇱🇰;$>_OSINT+Tracking+Active...;$>_Grey+Hat+Protocol+Engaged;$>_Accessing+CTF+Databases..." alt="Terminal" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Origin-SRI_LANKA-8D153A?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team-LK--HACKERS-FFBE0B?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/Security-CERTIFIED-005F56?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Identity-GREY_HAT-lightgrey?style=for-the-badge&logo=hackerone&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rank-OFFICER-FFBE0B?style=for-the-badge&logo=target&logoColor=black" />
 </p>
 
 <p align="center">
@@ -18,29 +18,45 @@
 
 ---
 
-## 🛡️ MISSION: PROTECTING THE DIGITAL FRONTIER
-Lk-Hackers Team එක විදියට අපේ අරමුණ ශ්‍රී ලාංකීය සයිබර් අවකාශය ආරක්ෂා කිරීම සහ නවීන පන්නයේ hacking tools නිපදවීමයි. 
-
-| **Category** | **Skills & Tools** |
-| :--- | :--- |
-| ☢️ **Offensive** | Python Exploit Dev, Metasploit, Social Engineering |
-| 🔒 **Defensive** | Firewall Scripting, Nftables, Network Hardening |
-| 🔍 **Intelligence** | OSINT, Scammer Tracking, Geo-Location |
+## 🏆 CTF & LAB ACHIEVEMENTS
+<p align="center">
+  <a href="https://tryhackme.com/p/LK-HACKERS" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://app.hackthebox.com/users/LK-HACKERS" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9fe52d?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ ARSENAL (The Weaponry)
+## 🛡️ MISSION LOG: OPERATION DIGITAL DEFENSE
+Lk-Hackers Team එකේ ප්‍රධාන අරමුණ ශ්‍රී ලාංකීය සයිබර් අවකාශය ආරක්ෂා කිරීම සහ නව පරපුරට Ethical Hacking පිළිබඳ නිවැරදි තාක්ෂණික දැනුම ලබා දීමයි.
+
+### 🔍 Cyber Operations & Expertise
+- 🎯 **OSINT & Tracking:** Sherlock, Maigret සහ Toutatis භාවිතයෙන් scammers සහ abusers හඳුනා ගැනීම.
+- 📱 **Termux Mastery:** Advanced CLI automation සහ script debugging (Python/Bash).
+- ☢️ **Red Teaming:** Penetration testing, Payload generation සහ Exploitation labs.
+- 🔒 **Network Defense:** IP/MAC tracking, Subnetting සහ Firewall protection.
+
+---
+
+## 🛠️ THE ARSENAL (Weaponry)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,py,bash,js,docker,git,github,mysql,php,vscode,powershell&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,py,bash,js,docker,git,github,mysql,php,vscode,powershell,postman,android&perline=8" />
   </a>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon-separator.gif" width="100%"/>
 </p>
 
 ---
 
 ## 📊 LIVE OPERATIONS DASHBOARD
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LK-HACKERS&show_icons=true&theme=matrix&border_radius=10&count_private=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LK-HACKERS&show_icons=true&theme=matrix&border_radius=10&count_private=true&include_all_commits=true" />
   <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=LK-HACKERS&theme=matrix&border_radius=10" />
 </p>
 
@@ -58,7 +74,7 @@ Lk-Hackers Team එක විදියට අපේ අරමුණ ශ්‍ර
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LK-HACKERS&label=LION_CORE_ACCESSES&color=ffbe0b&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=LK-HACKERS&label=LION_CORE_ACCESSES&color=8D153A&style=flat-square" />
 </p>
 
 <p align="center">
