@@ -18,6 +18,17 @@
 
 ---
 
+## 🌐 OFFICIAL PORTAL (LIVE)
+<p align="center">
+  <a href="https://lk-hackers.github.io/LK-HACKERS-WebSite/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Matrix_Portal-FFBE0B?style=for-the-badge&logo=target&logoColor=black" alt="Visit Site" />
+  </a>
+  <br>
+  <code>https://lk-hackers.github.io/LK-HACKERS-WebSite/</code>
+</p>
+
+---
+
 ## 🏆 CTF & LAB ACHIEVEMENTS
 <p align="center">
   <a href="https://tryhackme.com/p/LK-HACKERS" target="_blank">
