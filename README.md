@@ -18,13 +18,15 @@
 
 ---
 
-## 🌐 OFFICIAL PORTAL (LIVE)
+## ⚡ QUICK ACCESS NODES
 <p align="center">
   <a href="https://lk-hackers.github.io/LK-HACKERS-WebSite/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Matrix_Portal-FFBE0B?style=for-the-badge&logo=target&logoColor=black" alt="Visit Site" />
+    <img src="https://img.shields.io/badge/Main_Portal-FFBE0B?style=for-the-badge&logo=matrix&logoColor=black" alt="Main Portal" />
   </a>
-  <br>
-  <code>https://lk-hackers.github.io/LK-HACKERS-WebSite/</code>
+  &nbsp;&nbsp;
+  <a href="https://lk-hackers.github.io/LK-HACKERS-WebSite-ChatRoom/" target="_blank">
+    <img src="https://img.shields.io/badge/Secure_ChatRoom-00FF41?style=for-the-badge&logo=discord&logoColor=black" alt="Chat Room" />
+  </a>
 </p>
 
 ---
@@ -42,13 +44,13 @@
 ---
 
 ## 🛡️ MISSION LOG: OPERATION DIGITAL DEFENSE
-Lk-Hackers Team එකේ ප්‍රධාන අරමුණ ශ්‍රී ලාංකීය සයිබර් අවකාශය ආරක්ෂා කිරීම සහ නව පරපුරට Ethical Hacking පිළිබඳ නිවැරදි තාක්ෂණික දැනුම ලබා දීමයි.
+**Lk-Hackers Team** එකේ ප්‍රධාන අරමුණ ශ්‍රී ලාංකීය සයිබර් අවකාශය ආරක්ෂා කිරීම සහ නව පරපුරට Ethical Hacking පිළිබඳ නිවැරදි තාක්ෂණික දැනුම ලබා දීමයි.
 
 ### 🔍 Cyber Operations & Expertise
-- 🎯 **OSINT & Tracking:** Sherlock, Maigret සහ Toutatis භාවිතයෙන් scammers සහ abusers හඳුනා ගැනීම.
-- 📱 **Termux Mastery:** Advanced CLI automation සහ script debugging (Python/Bash).
-- ☢️ **Red Teaming:** Penetration testing, Payload generation සහ Exploitation labs.
-- 🔒 **Network Defense:** IP/MAC tracking, Subnetting සහ Firewall protection.
+- 🎯 **OSINT & Tracking:** Scammers සහ abusers හඳුනා ගැනීම.
+- 📱 **Termux Mastery:** CLI automation සහ script debugging.
+- ☢️ **Red Teaming:** Penetration testing සහ Exploitation.
+- 🔒 **Network Defense:** IP/MAC tracking සහ Firewall protection.
 
 ---
 
